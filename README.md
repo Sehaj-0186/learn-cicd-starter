@@ -24,4 +24,4 @@ You do *not* need to set up a database or any interactivity on the webpage yet. 
 
 ![code coverage badge](https://github.com/jaydee029/learn-cicd-starter/workflows/ci/badge.svg)
 
-//Just for recalling, whether i remember github or not 
+//Just a practice, whether i remember github or not?
